@@ -1,0 +1,6 @@
+# Dependències de practica1.py (el dashboard)
+# Versions mínimes orientatives; la pràctica s'ha provat amb Dash 4.4.1, Plotly 7.1.0 i pandas 3.0.2 (Python 3.12).
+dash>=3.0
+plotly>=6.0
+pandas>=2.0
+
